@@ -1,0 +1,27 @@
+# Requirements for Model Training and Development
+# Updated for PyTorch 2.x and modern library versions
+
+# Core ML Libraries
+torch==2.1.1
+torchvision==0.16.1
+
+# Data Processing
+numpy==1.26.2
+pandas==2.1.4
+Pillow==10.1.0
+
+# Visualization
+matplotlib==3.8.2
+
+# Model Summary (optional but useful)
+torchinfo==1.8.0
+
+# Jupyter Notebook Support
+jupyter==1.0.0
+ipykernel==6.27.1
+notebook==7.0.6
+
+# Code Formatting (optional)
+black==23.12.1
+
+
